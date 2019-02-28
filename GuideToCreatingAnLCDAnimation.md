@@ -24,10 +24,11 @@ byte smiley[8] = {
                 0b00000
               };
 
-    - The code above will display a smiley face on the LCD. The 1's represent black squares on the LCD. While, the 0's represent an
-    empty square on the LCD.
+    - The code above will display a smiley face on the LCD. The 1's represent black squares on the LCD. While, the 0's represent
+    an empty square on the LCD.
     
-    - I recommend using this site: https://mikeyancey.com/hamcalc/lcd_characters.php, it easily translates the pixel drawing to code
+    - I recommend using this site: https://mikeyancey.com/hamcalc/lcd_characters.php, it easily translates the pixel drawing 
+    to code
     
 3) Begin drawing frames on the Arduino IDE
 
