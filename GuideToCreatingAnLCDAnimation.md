@@ -1,6 +1,7 @@
 # ECE387MidtermProject
 
 Inspiration for this project was taken from http://www.jo3ri.be/arduino/projects/lcd-16x2-demo. 
+Also be sure to check the LCD Arduino library for all of the useful functions https://www.arduino.cc/en/Reference/LiquidCrystal.
 
 To create any animation on a LCD, there are several steps:
 
